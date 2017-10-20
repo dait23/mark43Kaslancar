@@ -1,0 +1,6 @@
+{
+  "name": "Foursquare",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Foursquare.js"
+}

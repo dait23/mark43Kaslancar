@@ -1,0 +1,6 @@
+{
+  "name": "Tema",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Tema.js"
+}
